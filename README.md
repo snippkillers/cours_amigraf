@@ -1,3 +1,4 @@
 #CoursAmigraf
 * by <snippkillers> *
-C'est le dépot test
+C'est le dépot test.
+J'ai ajouté le collaborateur suivant : max05
